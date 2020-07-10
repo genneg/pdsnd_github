@@ -1,5 +1,5 @@
 ### Date created
-July 09 2020
+July 10 2020
 ### Project Title
 US Bikeshare Tracking Program
 
@@ -22,7 +22,7 @@ Data files:
 * chicago.csv
 
 ### Credits
-Data  provided by [motivate](https://www.motivateco.com/)
+Data  provided by [Motivate](https://www.motivateco.com/)
 
 Thanks to :
 
