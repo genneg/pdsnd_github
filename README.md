@@ -22,3 +22,9 @@ Data files:
 * chicago.csv
 
 ### Credits
+Data  provided by [motivate](https://www.motivateco.com/)
+
+Thanks to :
+
+* [Udacity](https://www.udacity.com/)
+* [Programming for Data Science Nanodegree Team](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
