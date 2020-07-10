@@ -8,6 +8,11 @@ US Bikeshare Tracking Program
 This program allow the user to evaluate usage statistics relating to bikeshare programs in 3 US cities.
 
 ### Files used
+Python modules required:
+time   - Provide time related functions
+numpy  - Library used for array processing
+pandas - Provide high-performance data structures and data analysis tools
+
 
 
 ### Credits
