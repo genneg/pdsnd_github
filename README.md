@@ -1,5 +1,4 @@
 ### Date created
-Include the date you created this project and README file.
 July 09 2020
 ### Project Title
 US Bikeshare Tracking Program
@@ -9,17 +8,17 @@ This program allow the user to evaluate usage statistics relating to bikeshare p
 
 ### Files used
 Python modules required:
-time   - Provide time related functions
-numpy  - Library used for array processing
-pandas - Provide high-performance data structures and data analysis tools
+
+* time    - Provide time related functions
+* numpy  - Library used for array processing
+* pandas - Provide high-performance data structures and data analysis tools
 
 Application:
-bikeshare.py
+* bikeshare.py
 
 Data files:
-washington.csv
-new_york_city.csv
-chicago.csv
+* washington.csv
+* new_york_city.csv
+* chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
