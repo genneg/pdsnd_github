@@ -58,10 +58,8 @@ def load_data(city, month, day):
     Args:
         (str) city - name of the city to analyze Chicago, New York City, or Washington
         (str) month - name of the month to filter by, or "all" to apply no month filter
-            January, February, March, April, May, or June
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
-        Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday
-    Returns:
+        Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
     df = pd.read_csv(CITY_DATA[city])
@@ -190,7 +188,6 @@ def main():
         display_data(df)
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
-            print("Please visit our site at www.frenqo.it")
             break
 
 
